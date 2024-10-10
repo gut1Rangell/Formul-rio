@@ -1,3 +1,3 @@
-# Formulrio
+# Formulário
 ## Formulário para inscrição de nova conta.
-### Responsivo 
+Responsivo 
