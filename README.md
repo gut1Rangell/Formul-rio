@@ -1,2 +1,3 @@
-# Formul-rio
-Formulário para inscrição de nova conta.
+# Formulrio
+## Formulário para inscrição de nova conta.
+### Responsivo 
